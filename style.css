@@ -1,0 +1,123 @@
+@font-face {
+    font-family: 'bratsy';
+    src: url('../fonts/BratsyScriptDemo-Reguler.woff2') format('woff2'), url('../fonts/BratsyScriptDemo-Reguler.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+.logo {
+    font-size: 60px;
+    font-family: bratsy;
+    display: inline-block;
+    color: #FFFFFF;
+    padding: 20px;
+}
+header {
+    background: #2196F3;
+    height: 100px;
+}
+nav ul li {
+    padding: 45px;
+    display: inline-block;
+    margin-right: 20px;
+}
+nav ul {
+    float: right;
+}
+nav ul li a {
+    color: #FFF;
+    text-transform: uppercase;
+}
+.splash {
+    background: url(../images/splash.jpg)center fixed;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.splash h1 {
+    color: #FFF;
+    display: inline-block;
+    background: #2196F3;
+    padding: 10px;
+    margin: 10px;
+}
+.txt {
+    margin-top: 40vh;
+}
+.btn {
+    color: #FFFFFF;
+    background: #BDBDBD;
+    margin: 10px;
+}
+.center {
+    text-align: center;
+}
+.espacio {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+section div div div h1 {
+    margin-bottom: 40px;
+}
+section div #productos h1 {
+    margin-bottom: 40px;
+}
+.venta {
+    background: #BBDEFB;
+}
+.card {
+    height: 40vh;
+}
+#frutilla h3 {
+    font-family: bratsy;
+    color: #F44336;
+    font-size: 40px;
+}
+#limon h3 {
+    font-family: bratsy;
+    color: #CDDC39;
+    font-size: 40px;
+}
+#banana h3 {
+    font-family: bratsy;
+    color: #FFEB3B;
+    font-size: 40px;
+}
+div div div #frutilla img {
+    width: 100px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+div div div #limon img {
+    width: 200px;
+    margin: 0 auto;
+    margin-top: 5px;
+}
+div div div #banana img {
+    width: 200px;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+body {
+    color: #666;
+}
+.pinturita {
+    background: #448AFF;
+    color: #FFF;
+    font-size: 30px;
+}
+.frases i {
+    color: #448AFF;
+    font-size: 100px;
+}
+.frases h2 {
+    padding: 30px;
+}
+#cosillas div div div p {
+    font-size: 20px;
+}
+.contacto1 {
+    background: #F8BBD0;
+}
+.carousel .slide {
+    width: 800px;
+}
