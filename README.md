@@ -1,2 +1,2 @@
 # Trainee-Projects
-Please understand bad practices and mistakes haha!
+Please understand bad practices and mistakes haha
